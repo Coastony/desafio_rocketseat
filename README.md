@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
- <img src="images/Countdown.png" width="550" alt="Image project">
+ <img src="assets/betterfuture.png" width="550" alt="Image project">
 </p>
 
 ## 📁 Project access
