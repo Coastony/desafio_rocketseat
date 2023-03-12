@@ -6,6 +6,10 @@
 
 - ``HTML5`` ``CSS3`` ``JavaScript`` ``Google Fonts``
 
+- "Pensando em construir o futuro, como você solucionaria os problemas de acesso à educação hoje, utilizando a tecnologia?" 
+- Desafio RocketSeat HTML5 | CSS3 | JavaScript 
+- DoWhile 2021
+
 <br>
 
 <p align="center">
