@@ -4,7 +4,7 @@
  
  ## ✔️ Techniques and technologies used
 
-- ``HTML5`` ``CSS3`` ``JavaScript`` ``Google Fonts``
+- ``HTML5`` ``CSS3`` ``JavaScript`` ``Scroll Reveal`` ``Google Fonts``
 
 - "Pensando em construir o futuro, como você solucionaria os problemas de acesso à educação hoje, utilizando a tecnologia?" 
 - Desafio RocketSeat HTML5 | CSS3 | JavaScript 
