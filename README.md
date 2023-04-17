@@ -6,8 +6,8 @@
 
 - ``HTML5`` ``CSS3`` ``JavaScript`` ``Scroll Reveal`` ``Google Fonts``
 
-- "Pensando em construir o futuro, como você solucionaria os problemas de acesso à educação hoje, utilizando a tecnologia?" 
-- Desafio RocketSeat HTML5 | CSS3 | JavaScript 
+- "Thinking about building the future, how would you solve the problems of access to education today, using technology?" 
+- Challenge RocketSeat HTML5 | CSS3 | JavaScript 
 - DoWhile 2021
 - Finished in Dec/2021 and updated in Mar/2023
 
